@@ -1,0 +1,9 @@
+.trees p {
+    background-color: aqua;
+}
+.earth p.earth {
+    background-color: bisque;
+}
+.water.water {
+    background-color: aquamarine 
+}
