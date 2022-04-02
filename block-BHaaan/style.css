@@ -1,0 +1,19 @@
+.header {
+    text-align: center;
+    background-color: pink;
+    margin: 10px;
+}
+main {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    margin: 10px;
+    background-color: bisque;
+}
+a {
+    text-decoration: none;
+}
+.time {
+    text-align: left;
+}
